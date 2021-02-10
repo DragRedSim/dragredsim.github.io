@@ -14,3 +14,4 @@
 @@||ad.zanox.com^*$third-party
 @@||adidas-australia.pxf.io^*$third-party
 @@||adorama.evyy.net^*$third-party
+@@||potato.potato^
