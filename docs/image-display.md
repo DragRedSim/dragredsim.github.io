@@ -1,0 +1,1 @@
+![GX16 pins](/docs/assets/images/gx16-9%20pins.png)
